@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing sales, profitability, and customer behavior for the Sample Superstore dataset — built to surface trends across time, region, product, and city, and to support quick, filterable business reporting.
 
-<img width="981" height="561" alt="dashboard-preview" src="https://github.com/user-attachments/assets/cd1985d1-40ea-4741-8afc-2242f01e5f6a" />
+<img width="1477" height="856" alt="dashboard_screenshot_3" src="https://github.com/user-attachments/assets/7d03531c-2144-4e4f-be50-a2474b9cebc7" />
 
 # Overview
 
